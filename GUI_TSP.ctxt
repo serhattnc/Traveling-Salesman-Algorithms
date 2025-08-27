@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GUI_TSP
+comment1.params=
+comment1.target=GUI_TSP()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=pStadt
+comment3.target=void\ ZeichnealleKanten(java.util.ArrayList)
+comment4.params=
+comment4.target=void\ ZeichnealleSt\u00E4dte()
+comment5.params=x\ y\ c\ g
+comment5.target=void\ ZeichneStadt(int,\ int,\ java.awt.Color,\ java.awt.Graphics)
+comment6.params=
+comment6.target=void\ removeStadt()
+comment7.params=startX\ startY\ endX\ endY\ g\ c
+comment7.target=void\ ZeichneKante(int,\ int,\ int,\ int,\ java.awt.Graphics,\ java.awt.Color)
+numComments=8

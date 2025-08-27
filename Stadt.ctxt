@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Stadt
+comment1.params=pX\ pY
+comment1.target=Stadt(int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=get\ und\ set\ Methoden\ f\u00FCr\ die\ Variablen
+comment3.params=newX
+comment3.target=void\ setX(int)
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=newY
+comment5.target=void\ setY(int)
+comment6.params=
+comment6.target=java.lang.Boolean\ istVerknuepft()
+comment7.params=v
+comment7.target=void\ setVerknuepft(boolean)
+comment8.params=a
+comment8.target=void\ addCity(Stadt)
+numComments=9
